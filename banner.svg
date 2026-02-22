@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="200" viewBox="0 0 850 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#161B22"/>
+      <stop offset="100%" style="stop-color:#0D1117"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#58A6FF;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#58A6FF;stop-opacity:0"/>
+    </linearGradient>
+    <linearGradient id="accentFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#58A6FF;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#58A6FF;stop-opacity:0.4"/>
+      <stop offset="70%" style="stop-color:#58A6FF;stop-opacity:0.4"/>
+      <stop offset="100%" style="stop-color:#58A6FF;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <!-- Background -->
+  <rect width="850" height="200" fill="url(#bg)" rx="0"/>
+  <!-- Corner geometric accents - top left -->
+  <line x1="30" y1="20" x2="80" y2="20" stroke="#58A6FF" stroke-width="0.5" opacity="0.4"/>
+  <line x1="30" y1="20" x2="30" y2="60" stroke="#58A6FF" stroke-width="0.5" opacity="0.4"/>
+  <!-- Corner geometric accents - top right -->
+  <line x1="820" y1="20" x2="770" y2="20" stroke="#58A6FF" stroke-width="0.5" opacity="0.4"/>
+  <line x1="820" y1="20" x2="820" y2="60" stroke="#58A6FF" stroke-width="0.5" opacity="0.4"/>
+  <!-- Corner geometric accents - bottom left -->
+  <line x1="30" y1="180" x2="80" y2="180" stroke="#58A6FF" stroke-width="0.5" opacity="0.4"/>
+  <line x1="30" y1="180" x2="30" y2="140" stroke="#58A6FF" stroke-width="0.5" opacity="0.4"/>
+  <!-- Corner geometric accents - bottom right -->
+  <line x1="820" y1="180" x2="770" y2="180" stroke="#58A6FF" stroke-width="0.5" opacity="0.4"/>
+  <line x1="820" y1="180" x2="820" y2="140" stroke="#58A6FF" stroke-width="0.5" opacity="0.4"/>
+  <!-- Main horizontal accent lines -->
+  <rect x="100" y="88" width="650" height="0.75" fill="url(#accent)"/>
+  <rect x="100" y="113" width="650" height="0.75" fill="url(#accentFade)"/>
+  <!-- Primary title -->
+  <text x="425" y="78" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="44" font-weight="200" fill="#E6EDF3" text-anchor="middle" letter-spacing="14">LYDIAN</text>
+  <!-- Subtitle -->
+  <text x="425" y="133" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12" fill="#8B949E" text-anchor="middle" letter-spacing="4">FULL-STACK ENGINEER &amp; TECHNOLOGY ARCHITECT</text>
+  <!-- URL -->
+  <text x="425" y="165" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10" fill="#58A6FF" text-anchor="middle" letter-spacing="2">ailydian.com</text>
+</svg>
