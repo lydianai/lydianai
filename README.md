@@ -1,18 +1,13 @@
 <div align="center">
+  <img src="assets/logo/ailydian-banner.svg" alt="AiLydian" width="800">
 
-<img src="https://img.shields.io/badge/AiLydian-Intelligent_Solutions_for_Tomorrow-000000?style=for-the-badge&labelColor=000000" alt="AiLydian" />
+  <br>
 
-<br/>
-<br/>
+  **Enterprise SaaS Platform Ecosystem** | **Kurumsal SaaS Platform Ekosistemi**
 
-[![Website](https://img.shields.io/badge/ailydian.com-000000?style=flat-square&logo=safari&logoColor=white)](https://ailydian.com)
-[![Email](https://img.shields.io/badge/info@ailydian.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:info@ailydian.com)
-[![Location](https://img.shields.io/badge/Jacksonville,_FL-000000?style=flat-square&logo=google-maps&logoColor=white)]()
-[![License](https://img.shields.io/badge/Proprietary-000000?style=flat-square&logo=shield&logoColor=white)]()
-
-<br/>
-
-**Enterprise SaaS platforms powering HealthTech, FinTech, GovTech, TravelTech, AgriTech, LegalTech, and more.**
+  [![Platforms](https://img.shields.io/badge/Platforms-18+-76B900?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHBhdGggZD0iTTEwIDJMMTguNSAxNi41TDE1LjUgMTYuNUwxMCA2LjVMNC41IDE2LjVMMS41IDE2LjVaIiBmaWxsPSIjMEEwQTBBIi8+PC9zdmc+)](https://github.com/lydianai)
+  [![Live](https://img.shields.io/badge/Live-Production-76B900?style=flat-square)]()
+  [![Location](https://img.shields.io/badge/HQ-Jacksonville,_FL-333?style=flat-square)]()
 
 </div>
 
